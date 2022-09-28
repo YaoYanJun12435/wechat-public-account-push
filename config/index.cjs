@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oYosX6unOFm9SSQsPvulItnqKZZ4',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'FMWBKl5FoqErbPkAhPiBv-oaTeabbDW4qKhBLbOwTSs',
+      useTemplateId: 'qXfa0L-WlxyW5UVV1ne84StGIx93K_jHJOh1UZ0VLS0',
       // 所在省份
       province: '云南',
       // 所在城市
@@ -127,7 +127,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oYosX6rhqAYjknm_COtte1SdmVas',
       // 你想对他发送的模板消息的模板ID（毒鸡汤）
-      useTemplateId: 'sIHTkSQVPlBF6qnSMgPIEsp9BNWDCzJSLEYLZR4WwmI',
+      useTemplateId: '4QO4Ntlpr_kLMmrjwtx-GJ_aNnSUIdDHjag3XZMbTN0',
       // 所在省份
       province: '北京',
       // 所在城市
